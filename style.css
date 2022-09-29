@@ -1,0 +1,77 @@
+            * {
+                background-color: white;
+            }
+            
+            .primer-parrafo {
+                text-align: right;
+                color: blue;
+                background-color: rgb(37, 37, 141);
+            }
+            
+            .segundo-parrafo {
+                text-align: center;
+                color: rgb(128, 128, 234);
+                background-color: rgba(red, green, blue, alpha)
+            }
+            
+            .primer-span {
+                background-color: black;
+                color: white;
+                /*text-align: center;*/
+            }
+            
+            .container {
+                margin-top: 50px;
+                margin-right: 30px;
+                margin-bottom: 40px;
+                margin-left: 50px;
+                margin: 50px 100px 60px;
+                border: 10px ridge black;
+                /*width:30%;*/
+                width: 300px;
+                height: 30vh;
+                background-color: rgb(14, 14, 226);
+                box-shadow: 5px 10px 8px #888888;
+            }
+            
+            .rojo {
+                background-color: red;
+                width: 30%;
+                height: 60px;
+                border: 2px solid black;
+                display: inline-block;
+            }
+            
+            .verde {
+                background-color: rgb(13, 92, 13);
+                width: 30%;
+                height: 60px;
+                border: 2px solid black;
+                display: inline-block;
+            }
+            
+            .cuadro-texto {
+                border: 3px solid black;
+                width: 300px;
+                height: 150px;
+                overflow: auto;
+                margin-top: 50px;
+            }
+            
+            .primero {
+                border: 1px solid black;
+                margin-bottom: 10px;
+                box-shadow: 5px 10px 12px #888888;
+            }
+            
+            .segundo {
+                border: 5px solid black;
+                margin-bottom: 15px;
+                box-shadow: 5px 10px 18px red;
+            }
+            
+            .tercero {
+                border: 5px solid forestgreen;
+                box-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+                ;
+            }
